@@ -1,5 +1,7 @@
 # collage_project_main_backup_file
 It contains all the files of this project.
+I also provide a zip file in this project.
+The zip file is laid out along with the files.
 
 # OUTPUT REGISTER PAGE
 
